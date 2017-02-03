@@ -1,6 +1,6 @@
 {
   "name": "query-string-flattener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Object flattener to a GET query compatible string.",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/kairxa/query-string-flattener/issues"
   },
   "homepage": "https://github.com/kairxa/query-string-flattener#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^18.1.0"
   }
 }
